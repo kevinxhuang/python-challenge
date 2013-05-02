@@ -1,7 +1,7 @@
 #!/usr/bin/env/python
 #coding:utf8
 '''
-Created on 2012-3-15
+Created on May 2, 2013
 
 @author: killua
 @url: http://www.pythonchallenge.com/pc/def/0.html
