@@ -5,7 +5,7 @@ Created on May 2, 2013
 
 @author: killua
 @url: http://www.pythonchallenge.com/pc/def/equality.html
-@target: http://www.pythonchallenge.com/pc/def/linkedlist.html
+@target: http://www.pythonchallenge.com/pc/def/peak.html
 
 Hint:
     首先根据提示从linkedlist.html转到linkedlist.php，进入level4
